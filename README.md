@@ -8,7 +8,7 @@ The pronunciation of _kanjis_ is usually a challenging problem for students lear
 
 ## Technical Details
 
-![Pipeline](./images/pipline.png)
+![Pipeline](./images/pipeline.png)
 Fig. 1. The pipeline of AR Furigana.
 
 ### The Pipeline of the Application
